@@ -13,7 +13,7 @@ find_package (
     # Network
     # WebSocktets
 )
-#useless comment
+
 include_directories(${CMAKE_CURRENT_SOURCE_DIR})
 
 # file(GLOB PROJECT_CHAT_SOURCE "${CMAKE_CURRENT_SOURCE_DIR}/Chat/*.cpp")
